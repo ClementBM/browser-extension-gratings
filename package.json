@@ -38,12 +38,12 @@
 		"sourceDir": "distribution",
 		"run": {
 			"startUrl": [
-				"https://github.com/fregante/browser-extension-template"
+				"https://www.google.com/maps/place/Gueuleton+-+Saint+Palais+sur+Mer/@45.6426899,-1.0908763,17z/data=!3m1!4b1!4m14!1m7!3m6!1s0x48017934c00093d1:0x494f468ea3db7df4!2sGueuleton+-+Saint+Palais+sur+Mer!8m2!3d45.6426899!4d-1.0883014!16s%2Fg%2F11nxq7k481!3m5!1s0x48017934c00093d1:0x494f468ea3db7df4!8m2!3d45.6426899!4d-1.0883014!16s%2Fg%2F11nxq7k481?entry=ttu"
 			]
 		}
 	},
- 	"@parcel/bundler-default-bug": "https://github.com/parcel-bundler/parcel/issues/8071",
- 	"@parcel/bundler-default": {
- 		"minBundles": 10000000
- 	}
+	"@parcel/bundler-default-bug": "https://github.com/parcel-bundler/parcel/issues/8071",
+	"@parcel/bundler-default": {
+		"minBundles": 10000000
+	}
 }
